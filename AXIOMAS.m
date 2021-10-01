@@ -4,7 +4,7 @@
 %Author:             :Angel Jesus Santiago Hernandez
 %Date                :20210928
 %Version             :1
-%Usage               :octave>/path/AXIOMAS
+%Usage               :octave>cd/path/AXIOMAS
 %Notes:              :Requiere aplicacion octave,usar su linea de comandos
 %                    :https://octaveintro.readthedocs.io/en/latest/index.html
 
